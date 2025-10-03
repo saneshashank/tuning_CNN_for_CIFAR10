@@ -91,6 +91,3 @@ Shashank Sane
 
 [1](https://github.com/saneshashank/tuning_CNN_for_CIFAR10/blob/main/tuning_CNN_CIFAR10.ipynb)
 [2](https://github.com/saneshashank/tuning_CNN_for_CIFAR10/blob/main/tiny_cifar10_net.py)
-[3](https://github.com/saneshashank/tuning_CNN_for_CIFAR10)
-[4](https://github.com/saneshashank/tuning_CNN_for_CIFAR10/blob/main/README.md)
-[5](https://github.com/albumentations-team/albumentations)
